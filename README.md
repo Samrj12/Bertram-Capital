@@ -1,7 +1,7 @@
 # Bertram Capital Coffee Payment
 
 ## Assumptions:
- We are using that we know would the next payer before transactions.
+ We are assuming that we know would the next payer before transactions.
  Also, at the end of all transactions, the code displays the balances that mentions how much amount each coworker is owed or owes.
 
 ## Usage:
